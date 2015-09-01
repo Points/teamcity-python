@@ -1,3 +1,10 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+IMPORTANT: Since v1.9, the teamcity-messages package has supported skipped
+tests for both nose and unittest. The Points customizations are no
+longer required. You should adjust your requirements to use teamcity-messages
+instead of teamcity-messages-pts.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 TeamCity plugin for unittest
 ----------------------------
 
